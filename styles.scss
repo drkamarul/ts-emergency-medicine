@@ -1,0 +1,19 @@
+/*-- scss:defaults --*/
+$primary: #0b3954;
+$secondary: #087e8b;
+$link-color: #087e8b;
+$font-size-root: 17px;
+
+/*-- scss:rules --*/
+.hero { background: linear-gradient(135deg, #0b3954, #087e8b); color: #fff; padding: 2.5rem 2rem; border-radius: 12px; margin-bottom: 2rem; }
+.hero h1 { color: #fff; margin-top: 0; }
+.hero p { font-size: 1.15rem; margin-bottom: 0; }
+.speaker { display: flex; gap: 1.5rem; align-items: flex-start; margin-bottom: 2rem; padding: 1.25rem; border: 1px solid #dee2e6; border-radius: 12px; }
+.speaker img { max-width: none; width: 150px; height: 170px; object-fit: cover; border-radius: 10px; flex-shrink: 0; }
+.speaker h3 { margin-top: 0; }
+@media (max-width: 576px) { .speaker { flex-direction: column; } }
+.day-head { background: #e6f2f3; font-weight: 700; color: #0b3954; }
+.break-row td { font-style: italic; color: #6c757d; text-align: center; }
+.big-btn { display: inline-block; background: #087e8b; color: #fff !important; padding: .9rem 1.6rem; border-radius: 10px; font-size: 1.15rem; text-decoration: none; }
+.big-btn:hover { background: #0b3954; }
+.req { border-left: 4px solid #087e8b; padding: .25rem 1rem; margin-bottom: 1.5rem; }

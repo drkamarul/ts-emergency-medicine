@@ -1,0 +1,23 @@
+---
+title: "Speakers"
+---
+
+::: {.speaker}
+<img src="images/kim.jpg" alt="Photo of Kamarul Imran Musa">
+
+::: {}
+### Prof Dr Kamarul Imran Musa (KIM)
+
+Professor of Epidemiology and Biostatistics at the School of Medical Sciences, Universiti Sains Malaysia. A medical epidemiologist and statistician, KIM teaches R, Quarto and reproducible data analysis for health research.
+:::
+:::
+
+::: {.speaker}
+<img src="images/erica.jpg" alt="Photo of Kueh Yee Cheng">
+
+::: {}
+### Assoc Prof Dr Kueh Yee Cheng (Erica)
+
+Biostatistician at the School of Medical Sciences, Universiti Sains Malaysia. Erica teaches biostatistics and research methodology, with work in statistical modelling and forecasting for health research.
+:::
+:::

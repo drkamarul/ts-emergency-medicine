@@ -1,0 +1,26 @@
+---
+pagetitle: "Time Series in Emergency Medicine"
+---
+
+::: {.hero}
+# Time Series in Emergency Medicine
+A two-day hands-on workshop · 21–22 October 2026
+:::
+
+## About the workshop
+
+Emergency departments generate data every hour of every day. This workshop shows you how to explore, decompose, model and forecast that data using R.
+
+## Objectives
+
+At the end of the workshop, participants are able:
+
+1. To understand concepts of time-series analysis and forecasting
+2. To understand features and sources of time series data
+3. To perform analysis of time series data using R
+4. To appraise time-series and forecasting manuscripts
+5. To understand concepts for GAM and joint-point regression
+
+## Before you come
+
+Please install the software on the [Prerequisites](prerequisites.qmd) page before Day 1. Slides, data and exercises are on the [Resources](resources.qmd) page.

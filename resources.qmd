@@ -1,0 +1,9 @@
+---
+title: "Resources"
+---
+
+Slides, datasets and exercises for both days are in one shared Google Drive folder.
+
+<a class="big-btn" href="https://drive.google.com/drive/folders/1Hh7fpxD3JXzZjS2U4KFT8R3GNLjT6Lxz?usp=sharing" target="_blank">Open the shared folder</a>
+
+The folder is updated during the workshop, so check back after each session.

@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Time Series in Emergency Medicine"
+  page-navigation: false
+  navbar:
+    background: "#0b3954"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: speakers.qmd
+        text: Speakers
+      - href: timetable.qmd
+        text: Timetable
+      - href: prerequisites.qmd
+        text: Prerequisites
+      - href: resources.qmd
+        text: Resources
+  page-footer:
+    center: "Time Series in Emergency Medicine · 21–22 October 2026"
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: false

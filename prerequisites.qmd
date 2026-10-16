@@ -1,0 +1,43 @@
+---
+title: "Prerequisites"
+---
+
+Please install these **before Day 1**. Each takes about 5–10 minutes.
+
+::: {.req}
+### 1. R
+
+The language we use for every analysis.
+
+- Windows: [Download R for Windows](https://cran.r-project.org/bin/windows/base/)
+- Mac: [Download R for macOS](https://cran.r-project.org/bin/macosx/) (choose the Apple silicon build for M1–M4 Macs, Intel otherwise)
+:::
+
+::: {.req}
+### 2. An IDE: Positron (recommended) or RStudio
+
+The program you type R code into. Install **one** of them, after R.
+
+- [Download Positron](https://positron.posit.co/download.html)
+- [Download RStudio Desktop](https://posit.co/download/rstudio-desktop/)
+:::
+
+::: {.req}
+### 3. Posit Cloud account
+
+A free browser-based RStudio. It is your backup if an installation fails on your laptop.
+
+- [Sign up for Posit Cloud](https://posit.cloud/) (the free plan is enough)
+:::
+
+::: {.req}
+### 4. Google Antigravity 2.0
+
+The AI coding assistant we use in the hands-on sessions.
+
+- [Download Google Antigravity](https://antigravity.google/download) and sign in with your Google account
+:::
+
+### Check that it works
+
+Open Positron or RStudio and type `1 + 1` in the Console. If you see `[1] 2`, you are ready.

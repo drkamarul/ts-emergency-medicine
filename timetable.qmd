@@ -1,0 +1,21 @@
+---
+title: "Timetable"
+---
+
+```{=html}
+<table class="table">
+<thead><tr><th>Topic</th><th>Time</th><th>Speaker</th></tr></thead>
+<tbody>
+<tr class="day-head"><td colspan="3">Day 1 · Wednesday, 21 October 2026</td></tr>
+<tr><td>Introduction to Time-Series and Forecasting</td><td>9.00 AM – 10.30 AM</td><td>Assoc Prof Dr Kueh Yee Cheng</td></tr>
+<tr><td>R, Posit Cloud and RStudio</td><td>10.30 AM – 12.30 PM</td><td>Prof Dr Kamarul Imran Musa</td></tr>
+<tr class="break-row"><td colspan="3">Break</td></tr>
+<tr><td>Time-Series Graphics and Decomposition</td><td>2.00 PM – 4.00 PM</td><td>Prof Dr Kamarul Imran Musa</td></tr>
+<tr class="day-head"><td colspan="3">Day 2 · Thursday, 22 October 2026</td></tr>
+<tr><td>Exponential Smoothing and ARIMA</td><td>9.45 AM – 11.00 AM</td><td>Assoc Prof Dr Kueh Yee Cheng</td></tr>
+<tr><td>Use-cases of Time Series Analysis in ED</td><td>11.00 AM – 12.30 PM</td><td>Prof Dr Kamarul Imran Musa</td></tr>
+<tr class="break-row"><td colspan="3">Break</td></tr>
+<tr><td>Generalized Additive Model and Joint-point Regression</td><td>2.00 PM – 3.30 PM</td><td>Prof Dr Kamarul Imran Musa</td></tr>
+</tbody>
+</table>
+```

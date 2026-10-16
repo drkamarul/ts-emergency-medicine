@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "timetable.html",
+    "href": "timetable.html",
+    "title": "Timetable",
+    "section": "",
+    "text": "Topic\nTime\nSpeaker\n\n\n\n\nDay 1 · Wednesday, 21 October 2026\n\n\nIntroduction to Time-Series and Forecasting\n9.00 AM – 10.30 AM\nAssoc Prof Dr Kueh Yee Cheng\n\n\nR, Posit Cloud and RStudio\n10.30 AM – 12.30 PM\nProf Dr Kamarul Imran Musa\n\n\nBreak\n\n\nTime-Series Graphics and Decomposition\n2.00 PM – 4.00 PM\nProf Dr Kamarul Imran Musa\n\n\nDay 2 · Thursday, 22 October 2026\n\n\nExponential Smoothing and ARIMA\n9.45 AM – 11.00 AM\nAssoc Prof Dr Kueh Yee Cheng\n\n\nUse-cases of Time Series Analysis in ED\n11.00 AM – 12.30 PM\nProf Dr Kamarul Imran Musa\n\n\nBreak\n\n\nGeneralized Additive Model and Joint-point Regression\n2.00 PM – 3.30 PM\nProf Dr Kamarul Imran Musa"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Slides, datasets and exercises for both days are in one shared Google Drive folder.\nOpen the shared folder\nThe folder is updated during the workshop, so check back after each session."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Time Series in Emergency Medicine",
+    "section": "",
+    "text": "A two-day hands-on workshop · 21–22 October 2026"
+  },
+  {
+    "objectID": "index.html#about-the-workshop",
+    "href": "index.html#about-the-workshop",
+    "title": "Time Series in Emergency Medicine",
+    "section": "About the workshop",
+    "text": "About the workshop\nEmergency departments generate data every hour of every day. This workshop shows you how to explore, decompose, model and forecast that data using R."
+  },
+  {
+    "objectID": "index.html#objectives",
+    "href": "index.html#objectives",
+    "title": "Time Series in Emergency Medicine",
+    "section": "Objectives",
+    "text": "Objectives\nAt the end of the workshop, participants are able:\n\nTo understand concepts of time-series analysis and forecasting\nTo understand features and sources of time series data\nTo perform analysis of time series data using R\nTo appraise time-series and forecasting manuscripts\nTo understand concepts for GAM and joint-point regression"
+  },
+  {
+    "objectID": "index.html#before-you-come",
+    "href": "index.html#before-you-come",
+    "title": "Time Series in Emergency Medicine",
+    "section": "Before you come",
+    "text": "Before you come\nPlease install the software on the Prerequisites page before Day 1. Slides, data and exercises are on the Resources page."
+  },
+  {
+    "objectID": "prerequisites.html",
+    "href": "prerequisites.html",
+    "title": "Prerequisites",
+    "section": "",
+    "text": "Please install these before Day 1. Each takes about 5–10 minutes.\n\n1. R\nThe language we use for every analysis.\n\nWindows: Download R for Windows\nMac: Download R for macOS (choose the Apple silicon build for M1–M4 Macs, Intel otherwise)\n\n\n\n2. An IDE: Positron (recommended) or RStudio\nThe program you type R code into. Install one of them, after R.\n\nDownload Positron\nDownload RStudio Desktop\n\n\n\n3. Posit Cloud account\nA free browser-based RStudio. It is your backup if an installation fails on your laptop.\n\nSign up for Posit Cloud (the free plan is enough)\n\n\n\n4. Google Antigravity 2.0\nThe AI coding assistant we use in the hands-on sessions.\n\nDownload Google Antigravity and sign in with your Google account\n\n\n\nCheck that it works\nOpen Positron or RStudio and type 1 + 1 in the Console. If you see [1] 2, you are ready."
+  },
+  {
+    "objectID": "speakers.html",
+    "href": "speakers.html",
+    "title": "Speakers",
+    "section": "",
+    "text": "Prof Dr Kamarul Imran Musa (KIM)\nProfessor of Epidemiology and Biostatistics at the School of Medical Sciences, Universiti Sains Malaysia. A medical epidemiologist and statistician, KIM teaches R, Quarto and reproducible data analysis for health research.\n\n\n\n\n\nAssoc Prof Dr Kueh Yee Cheng (Erica)\nBiostatistician at the School of Medical Sciences, Universiti Sains Malaysia. Erica teaches biostatistics and research methodology, with work in statistical modelling and forecasting for health research."
+  }
+]
