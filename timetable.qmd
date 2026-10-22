@@ -10,12 +10,12 @@ title: "Timetable"
 <tr><td>Introduction to Time-Series and Forecasting</td><td>9.30 AM – 11.00 AM</td><td>Assoc Prof Dr Kueh Yee Cheng</td></tr>
 <tr><td>R, Posit Cloud and RStudio<div class="slides"><a href="https://drkim-r-for-timeseries.share.connect.posit.cloud/" target="_blank">Slides</a></div></td><td>11.00 AM – 1.00 PM</td><td>Prof Dr Kamarul Imran Musa</td></tr>
 <tr class="break-row"><td colspan="3">Break</td></tr>
-<tr><td>Time-Series Graphics and Decomposition<div class="slides"><a href="https://drkim-time-series-graphics-ed.share.connect.posit.cloud/" target="_blank">Slides: Graphics</a> · <a href="https://drkim-ts-decomposition.share.connect.posit.cloud/" target="_blank">Slides: Decomposition</a></div></td><td>2.00 PM – 4.00 PM</td><td>Prof Dr Kamarul Imran Musa</td></tr>
+<tr><td>Time-Series Graphics and Decomposition<div class="slides"><a href="https://drkim-time-series-graphics-ed.share.connect.posit.cloud/" target="_blank">Slides: Graphics</a> · <a href="https://drkim-ts-decomposition.share.connect.posit.cloud/" target="_blank">Slides: Decomposition</a> · <a href="https://drkim-acf-pacf.share.connect.posit.cloud" target="_blank">Slides: ACF and PACF</a></div></td><td>2.00 PM – 4.00 PM</td><td>Prof Dr Kamarul Imran Musa</td></tr>
 <tr class="day-head"><td colspan="3">Day 2 · Thursday, 22 October 2026</td></tr>
 <tr><td>Exponential Smoothing and ARIMA</td><td>9.45 AM – 11.00 AM</td><td>Assoc Prof Dr Kueh Yee Cheng</td></tr>
-<tr><td>Use-cases of Time Series Analysis in ED</td><td>11.00 AM – 12.30 PM</td><td>Prof Dr Kamarul Imran Musa</td></tr>
+<tr><td>Use-cases of Time Series Analysis in ED<div class="slides"><a href="https://drkim-ai-assistant-for-time-series.share.connect.posit.cloud" target="_blank">Slides</a></div></td><td>11.00 AM – 12.30 PM</td><td>Prof Dr Kamarul Imran Musa</td></tr>
 <tr class="break-row"><td colspan="3">Break</td></tr>
-<tr><td>Generalized Additive Model and Joint-point Regression</td><td>2.00 PM – 3.30 PM</td><td>Prof Dr Kamarul Imran Musa</td></tr>
+<tr><td>Generalized Additive Model and Joint-point Regression<div class="slides"><a href="https://drkim-regression-models-for-ts.share.connect.posit.cloud" target="_blank">Slides</a></div></td><td>2.00 PM – 3.30 PM</td><td>Prof Dr Kamarul Imran Musa</td></tr>
 </tbody>
 </table>
 ```
